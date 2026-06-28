@@ -216,3 +216,26 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Interactables
+.venv_win/
+*.tbs
+*.int
+*.sqlite3
+
+# Logs de Debug
+*.log
+player_debug.log
+hierarchy_error.log
+pan_debug.log
+
+# Pastas de extração de projetos locais temporários
+Importado_*/
+
+# Scripts locais de Teste (scratch)
+test*.py
+
+# Documentações antigas / de uso pessoal (Mantém apenas o README principal)
+ALTERACOES_PENDENTES.md
+README_*.md
+etapas_concluidas.md
